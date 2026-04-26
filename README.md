@@ -80,6 +80,7 @@ Pong-Game/
 │── Bat.cpp
 │── Bat.h
 │── Fonts/
+│── Screenshots/
 │── README.md
 │── .gitignore
 ```
